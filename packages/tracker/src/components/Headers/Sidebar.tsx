@@ -6,7 +6,7 @@ export default function SidebarHeader() {
   return (
     <div
       className="bg-base-300"
-      style={{ width: sidebarWidth, height: "100vh" }}
+      style={{ width: sidebarWidth, height: "100%" }}
     ></div>
   );
 }
